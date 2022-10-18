@@ -4,17 +4,19 @@ body{
 
 ul{
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    margin: 20px;
+    padding: 0px 5px;
 }
 
 li{
-    float: left;
+    float: right;
 }
 
 li a{
     display: block;
     padding: 8px;
-    background-color:cyan;
+    background-color:rgba(185, 197, 185, 0.699);
+    margin: 10px;
+    padding: 10px;
 }
 
